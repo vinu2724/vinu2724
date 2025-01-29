@@ -4,7 +4,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div> -->
 <h2 align="center">Leetcode Info<h2>  
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: column,">
   
   <div style="display: flex; gap: 10px; justify-content: center;">
     <a href="https://leetcode.com/vinayak2724/" target="_blank">
