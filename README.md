@@ -23,7 +23,7 @@
 
   <div style="margin-top: 10px;">
     <img src="https://leetcard.jacoblin.cool/vinayak2724?theme=dark&font=Nunito&ext=heatmap" 
-         alt="LeetCode Stats" height="300" width="600" />
+         alt="LeetCode Stats" height="300" width="1000" />
   </div>
 
 </div>
