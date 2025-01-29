@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/vinayak2724?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/vinayak2724?theme=dark&font=Nunito&ext=heatmap" height="200" width="400" />  
 </p>
 
 
